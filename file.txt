@@ -2,4 +2,6 @@ Hola, soy Cristian Pineda, FullStack Developer.
 
 Tengo 31 años.
 
-Estoy aprendiendo a programar en React y Node js y conseguiré un trabajo muy pronto en la industria industria
+Estoy aprendiendo a programar en React y Node js y conseguiré un trabajo muy pronto en la industria industria.
+
+Hoy hablaremos de mi vida.

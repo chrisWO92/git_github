@@ -8,5 +8,7 @@ Un glob tremendo para mi curso de git y github de platzi
 - Comandos de trabajo de github
 - Trucos locos
 - Creado por el increíble CrisWO92
+- Incluye Linex y Mac
+- Disponible para todas las edades
 
 Y como un amable recordatorio: **Este readme.md e sun chiste**. DIseñado para ejemplo no maaa

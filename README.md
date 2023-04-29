@@ -7,5 +7,6 @@ Un glob tremendo para mi curso de git y github de platzi
 - Todos los comandos de git
 - Comandos de trabajo de github
 - Trucos locos
+- Creado por el increíble CrisWO92
 
 Y como un amable recordatorio: **Este readme.md e sun chiste**. DIseñado para ejemplo no maaa
